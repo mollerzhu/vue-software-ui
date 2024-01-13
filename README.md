@@ -32,7 +32,6 @@ import vsu from 'vue-software-ui'
 
 const app = createApp(App)
 app.use(vsu)
-
 ```
 
 ## 社区
